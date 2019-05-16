@@ -1,7 +1,7 @@
 # Alec-Perro-Thinkful
 Sharing some of my favorite projects that I have completed throughout Thinkful's curriculum.
 
-## Early Projects: Credit card fraud and Housing Pricing
+## Early Projects: Credit Card Fraud and Housing Pricing
 Out of my early projects I really enjoyed how these two came out. This area of the curriculum is where I got most of my practice utilizing SK-Learn, Pandas, Matplotlib and Seaborn. With these tools I learned general data cleaning, data visualization and predictive modeling.
 
 ## Deep Learning: U4 Capstone, MNIST and Cancer Detection
