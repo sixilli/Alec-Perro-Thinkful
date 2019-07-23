@@ -12,4 +12,4 @@ During some of my downtime I took on a few extra projects. The first being Kaggl
 ## Finishing Strong: KMeans from Scratch and Final Capstone
 Before finishing the program I applied to some jobs. As a pre-screening question I was asked to implement K Means Clustering from scratch. Even though I knew how K Means clustering was done mathematically it proved to be a difficult coding challenge.
 
-The final capstone is currently a work in progress. As it stands I have implemented a fully convolutional neural networks that's very similar to U-Net. I'll be experementing with binary cross entropy with logits loss function with and without dice loss.
+The final capstone focused on image segmentation using a U-Net architecture. I trained two variants that showed promising results. The first used a VGG11 encoder to utilize transfer learning. The second was trained completely from scratch and used convolutional transpose layers to handle the upscaling portion of the U-Net architecture. Overall both models performed well, but the transfer learning model was a clear winner.
